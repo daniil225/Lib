@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sat Jul 23 13:00:19 2022
+# Make data base, printed on Sat Jul 23 21:35:33 2022
 
 # Variables
 
@@ -103,7 +103,7 @@ SNAP_REEXEC =
 # environment
 ZSH = /home/daniil/.oh-my-zsh
 # environment
-VSCODE_PID = 4067
+VSCODE_PID = 7678
 # environment
 XDG_SESSION_TYPE = x11
 # automatic
@@ -111,7 +111,7 @@ XDG_SESSION_TYPE = x11
 # environment
 BAMF_DESKTOP_FILE_HINT = /var/lib/snapd/desktop/applications/code_code.desktop
 # environment
-SESSION_MANAGER = local/daniil-TUF-Gaming-FX705DU-FX705DU:@/tmp/.ICE-unix/2329,unix/daniil-TUF-Gaming-FX705DU-FX705DU:/tmp/.ICE-unix/2329
+SESSION_MANAGER = local/daniil-TUF-Gaming-FX705DU-FX705DU:@/tmp/.ICE-unix/2312,unix/daniil-TUF-Gaming-FX705DU-FX705DU:/tmp/.ICE-unix/2312
 # automatic
 *F = $(notdir $*)
 # environment
@@ -157,7 +157,7 @@ LC_TIME = ru_RU.UTF-8
 # environment
 SNAP = /snap/code/102
 # environment
-INVOCATION_ID = dbe2a97832dd44bb8278dce354eec43e
+INVOCATION_ID = 65124c9f1d744c93a78130b62132dc24
 # environment
 SNAP_REVISION = 102
 # environment
@@ -191,7 +191,7 @@ SNAP_ARCH = amd64
 # makefile
 .DEFAULT_GOAL := 
 # environment
-SYSTEMD_EXEC_PID = 2352
+SYSTEMD_EXEC_PID = 2350
 # environment
 DISPLAY = :1
 # environment
@@ -207,11 +207,11 @@ SNAP_DATA = /var/snap/code/102
 # environment
 SNAP_CONTEXT = G5iju9oYeiJ3wCWGsAh6e-1Stxhyr7PXHQPoIMQYQ_vbpMRjR2uL
 # environment
-MANAGERPID = 1822
+MANAGERPID = 1794
 # environment
 LC_MEASUREMENT = ru_RU.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 4020
+GIO_LAUNCHED_DESKTOP_FILE_PID = 7627
 # environment
 PAGER = less
 # environment
@@ -225,7 +225,7 @@ GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
 # environment
 GDK_PIXBUF_MODULE_FILE = /home/daniil/snap/code/common/.cache/gdk-pixbuf-loaders.cache
 # environment
-JOURNAL_STREAM = 8:37352
+JOURNAL_STREAM = 8:39080
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -288,7 +288,6 @@ SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd
 # Files
 
 # Not a target:
- 
 Makefile:
 #  Implicit rule search has been done.
 #  File does not exist.
@@ -296,6 +295,7 @@ Makefile:
 #  Failed to be updated.
 
 # Not a target:
+ 
 .DEFAULT:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
@@ -336,6 +336,6 @@ GNUmakefile:
 # strcache performance: lookups = 19 / hit rate = 15%
 # hash-table stats:
 # Load=16/8192=0%, Rehash=0, Collisions=0/19=0%
-# Finished Make data base on Sat Jul 23 13:00:19 2022
+# Finished Make data base on Sat Jul 23 21:35:33 2022
 
  
